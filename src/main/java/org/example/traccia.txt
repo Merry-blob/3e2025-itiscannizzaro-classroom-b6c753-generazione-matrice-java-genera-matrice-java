@@ -1,0 +1,1 @@
+Creare un Java una matrice di 5 colonne e 3 righe contenenti numeri casuali da 1 a 90 senza ripetizioni. Stampare risultato.
